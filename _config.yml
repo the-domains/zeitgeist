@@ -1,0 +1,28 @@
+name: Zeitgeist
+favicon: null
+layout_spectrum: 0.7977112897206098
+typography_spectrum: 0.42110134614631534
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.9242798078339547
+  lightness: 0.314628777327016
+  saturation: 0.32673438475467265
+  rhythmicContrast: 0.26405545324087143
+purpose: []
