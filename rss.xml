@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Spirit of the age]]></title>
         <description><![CDATA[Spirit of the age]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/zeitgeist/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 12 Dec 2015 03:04:22 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 12 Dec 2015 03:04:27 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/zeitgeist/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://propago.files.wordpress.com/2009/03/women-artistic-549171.jpg">]]></description>
+            <link>https://thegrid.ai/zeitgeist/818b8520-c0a7-40f3-9758-3e53398a4bcf/index.html</link>
+            <guid isPermaLink="false">818b8520-c0a7-40f3-9758-3e53398a4bcf</guid>
+            <pubDate>Sat, 12 Dec 2015 03:03:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://ecx.images-amazon.com/images/I/71I%2BqofZSUL.jpg">]]></description>
-            <link>undefinedd7333c22-753f-4188-9a86-b83cb160557f/index.html</link>
+            <link>https://thegrid.ai/zeitgeist/d7333c22-753f-4188-9a86-b83cb160557f/index.html</link>
             <guid isPermaLink="false">d7333c22-753f-4188-9a86-b83cb160557f</guid>
             <pubDate>Sat, 12 Dec 2015 03:03:51 GMT</pubDate>
         </item>
