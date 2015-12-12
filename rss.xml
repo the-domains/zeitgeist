@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Spirit of the age]]></title>
+        <description><![CDATA[Spirit of the age]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 12 Dec 2015 03:04:22 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://ecx.images-amazon.com/images/I/71I%2BqofZSUL.jpg">]]></description>
+            <link>undefinedd7333c22-753f-4188-9a86-b83cb160557f/index.html</link>
+            <guid isPermaLink="false">d7333c22-753f-4188-9a86-b83cb160557f</guid>
+            <pubDate>Sat, 12 Dec 2015 03:03:51 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
